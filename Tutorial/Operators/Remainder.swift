@@ -1,3 +1,4 @@
+import Foundation
 // The remainder operator (a % b) works out how many multiples of b will fit inside a and returns the value that’s left over (known as the remainder).
 
 print(9 % 4)    // Remainder Operator , equals 1
