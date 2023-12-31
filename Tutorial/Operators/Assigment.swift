@@ -1,3 +1,4 @@
+import Foundation
 // The assignment operator (a = b) initializes or updates the value of a with the value of b:
 
 let b = 10
