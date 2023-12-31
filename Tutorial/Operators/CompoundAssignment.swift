@@ -1,3 +1,4 @@
+import Foundation
 var a = 1
 print(a)
 
